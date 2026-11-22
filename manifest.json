@@ -1,0 +1,23 @@
+{
+  "name": "10th Maths Formula Quiz & Worksheet Builder (2025 v4)",
+  "short_name": "10th Maths PWA",
+  "description": "210 Formulas (Complete 2025 Textbook + WTS), Pure EN & TA, KaTeX, 11 3D B&W SVGs, NTA CBT, 5 A4 Printable Worksheet Builders",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef2ff",
+  "theme_color": "#1e1b4b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
